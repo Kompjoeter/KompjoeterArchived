@@ -9,6 +9,6 @@ Having spent most of my life pursuing art, my interest in programming came as a 
 
 Currently, I am focused on improving my frond-end skills but I'm also very excited about Generative Art, Procedural Generation and Game Development. When I can find the time I paint on canvas and I'm curious to someday combine this with my interest in programming.
 
-- Joran de Boer
+-Joran de Boer
 
 https://twitter.com/RandbYyp<br/>https://randbyyp.com
