@@ -11,5 +11,4 @@ Currently, I am focused on improving my frond-end skills but I'm also very excit
 
 - Joran de Boer
 
-https://twitter.com/RandbYyp
-https://randbyyp.com
+https://twitter.com/RandbYyp  https://randbyyp.com
