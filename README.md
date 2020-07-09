@@ -1,4 +1,4 @@
-#Joran de Boer#
+#Joran de Boer
 
 - 27 years old
 - From the Netherlands
