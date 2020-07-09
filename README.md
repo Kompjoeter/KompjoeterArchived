@@ -1,9 +1,9 @@
 # Joran de Boer
 
-- 27 years old
-- From the Netherlands
-- Graduated in 'Art: Decoration and Restoration'
-- Worked with GML, C#, HTML, CSS, Javascript, Angular, p5.js library, (currently learning React)
+- **27 years old**
+- **From the Netherlands**
+- **Graduated in 'Art: Decoration and Restoration'**
+- **Worked with GML, C#, HTML, CSS, Javascript, Angular, p5.js library, (currently learning React)**
 
 Having spent most of my life pursuing art, my interest in programming came as a surprise. I find it offers both a breadth and depth, yet is more tangible and less subjective than art. It's a fresh wind I mean to explore further.
 
