@@ -1,6 +1,6 @@
 # Joran de Boer
 
-- **27 years old**
+- **28 years old**
 - **From the Netherlands**
 - **Graduated in 'Art: Decoration and Restoration'**
 - **Worked with GML, C#, HTML, CSS, Javascript, Angular, React, p5.js library**
