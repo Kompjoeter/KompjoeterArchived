@@ -76,11 +76,22 @@ My brother and his roommate approached me to build them a webpage for their camp
 
 🎨 **What else do I do?**
 
+<details><summary>Acryclic Painting</summary>
+<p>
 When I can find the time I like to **paint** using acrylics. I mostly do portraits but have been wanting to try painting some dramatic scenes including multiple characters in different poses. Someday, somehow, I want to combine both my painting and programming.
+  
+</p></details>
+<details><summary>3D Modeling</summary>
+<p>
+Recently I started doing some **Blender 3D** Tutorials. For now I just do it for fun. When I get the hang of the software I mean to do some worldbuilding, maybe make some landscapes and strange architecture. In the future I might try and incorperate 3D Modeling into some Procedural Generation project.
+  
+</p></details>
 
-Recently I started doing some **Blender 3D** Tutorials. For now I just do it for fun. When I get the hang of the software I mean to do some worldbuilding, maybe make some landscapes and strange architecture.
+</p></details>
+<details><summary>Dungeons and Dragons</summary>
+<p>
+For most of my life I've been playing the Table-Top-RPG **Dungeons and Dragons**. It has always been a great inspiration to me and a huge catalyst for all my creative pursuits! </p></details>
 
-For most of my life I've been playing the Table-Top-RPG **Dungeons and Dragons**. It has always been a great inspiration to me and a huge catalyst for all my creative pursuits!
 
 **Socials**
 
