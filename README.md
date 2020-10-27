@@ -1,7 +1,7 @@
 **Welcome to my GitHub Profile!**
 
 Want to learn more about me? **Scroll along!**<br/>
-Want to jump straight into my projects? [Click here!](#-💾-my-projects)
+Want to jump straight into my projects? [Click here!](#some-of-my-work)
 
 # 🧔🏼 Who am I?
 
@@ -38,7 +38,7 @@ Still learning
 - **Blender 3D** 
 - **Video Editing Software DaVinci Resolve**
  
-# 💾 My projects
+### Some of my work:
   <br>
   <ul>
     <li><a href="https://randbyyp.github.io/">Personal Website</a> <b>(HTML, CSS, Javascript)</b></li>
