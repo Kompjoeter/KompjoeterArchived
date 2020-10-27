@@ -14,7 +14,7 @@ Having spent most of my life pursuing art, my interest in programming came as a 
 
 Currently, I am focused on improving my front-end skills but I'm also very excited about Generative Art, Procedural Generation and Game Development. When I can find the time I paint on canvas and I'm curious to someday combine this with my interest in programming.
 
-🛠️ **What have I worked with?**
+# 🛠️ What have I worked with?
 
 Programming
 
@@ -30,13 +30,12 @@ Programming
 Other
 
 - **Raster Graphics Editors (e.g. Photoshop)**
-- **Vector Graphics Editors (e.g. Illustrator)*
+- **Vector Graphics Editors (e.g. Illustrator)**
 - **Blender 3D**
 - **Video Edit Software DaVinci Resolve**
 - **Acrylic Painting**
 
-# Projects
-<details><summary>Show me some projects!</summary>
+# 💾 My projects
   <br>
   <ul>
     <li><a href="https://randbyyp.github.io/">Personal Website</a> <b>(HTML, CSS, Javascript)</b></li>
@@ -49,7 +48,6 @@ Other
     <li><a href="https://github.com/RanDByyp/Generation-Station-Random-Walker">Generative Art Experiment</a> <b>(HTML, CSS, Javascript, p5.js)</b></li>
     <li><a href="https://randatabase.itch.io/">A variety of Game-Maker-Studio-2 Projects!</a><b> (GameMakerLanguage)</b></li>
   </ul>
-</details>
 
 💻 **What am I working on now?**
 
