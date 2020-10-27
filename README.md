@@ -40,7 +40,7 @@ Still learning:
 - **Video Editing Software DaVinci Resolve**
  
 ### Some of my projects:
-*While I may have used libraries, looked up some solutions here and there, or have asked people for some quick advice, all of these projects are solo-projects made by me (Joran de Boer) and have NOT been made in a team-environment.*
+*While I may have used libraries, looked up some solutions here and there, or have asked people for some quick advice, all of these projects are solo-projects made by me (Joran de Boer) and have NOT been made in a team-environment. Relevant credits to libraries etc. can be found on the project pages!*
   <br>
   <ul>
     <li><a href="https://randbyyp.github.io/">Personal Website</a> <b>(HTML, CSS, Javascript)</b></li>
@@ -54,12 +54,12 @@ Still learning:
     <li><a href="https://randatabase.itch.io/">A variety of Game-Maker-Studio-2 Projects!</a><b> (GameMakerLanguage)</b></li>
   </ul>
 
-# 💻 What am I working on now?
+# 👨‍💻 What am I working on now?
 
 - **Redesigning my personal website**
 - **Making a simple informative one-page site with animated (svg) header**
 - **Improving my skills in Blender 3D-Modeling software by following a tutorial series**
 
-# 🗨️ Where else can you find me?
+# 🔗 Where else can you find me?
 
 https://twitter.com/RandbYyp<br/>https://randbyyp.github.io/
