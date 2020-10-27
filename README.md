@@ -1,7 +1,7 @@
 **Welcome to my GitHub Profile!**
 
 Want to learn more about me? **Scroll along!**<br/>
-Want to jump straight into my projects? [Click here!](#💾-my-projects)
+Want to jump straight into my projects? [Click here!](#-💾-my-projects)
 
 # 🧔🏼 Who am I?
 
@@ -16,7 +16,7 @@ Currently, I am focused on improving my front-end skills but I'm also very excit
 
 # 🛠️ What have I worked with?
 
-Programming
+Programming languages etc.
 
 - **HTML/CSS**
 - **Javascript**
@@ -27,16 +27,18 @@ Programming
 - **Json**
 - **GML (GameMakerLanguage)**
 
-Other
+Other tools
 
 - **Raster Graphics Editors (e.g. Photoshop)**
 - **Vector Graphics Editors (e.g. Illustrator)**
-- **Blender 3D**
-- **Video Edit Software DaVinci Resolve**
-- **Acrylic Painting**
+- **Acrylic Paint**
 
-# 💾 
-# My projects
+Still learning
+
+- **Blender 3D** 
+- **Video Editing Software DaVinci Resolve**
+ 
+# 💾 My projects
   <br>
   <ul>
     <li><a href="https://randbyyp.github.io/">Personal Website</a> <b>(HTML, CSS, Javascript)</b></li>
