@@ -1,4 +1,4 @@
-# **Read me! WIP**
+# **Read me!**
 
 🧔🏼 **Who am I?**
 
