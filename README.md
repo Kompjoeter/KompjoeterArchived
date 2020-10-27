@@ -62,12 +62,12 @@ Still learning:
 
 # 💡 What else do I want to create/learn in the future?
 
-- **More Front-End skills!
-- **Back-End skills.
+- **More Front-End skills!**
+- **Back-End skills.**
 - **Create a complex artistic CSS animation using self-made SVGs.**
-- **Code a generator that creates semi-random SVG paths into interesting shapes/images.
+- **Code a generator that creates semi-random SVG paths into interesting shapes/images.**
 - **Improve upon my map generator.**
-- **Code a generator that creates painting-style images from photos.
+- **Code a generator that creates painting-style images from photos.**
 - **Code and create a video game.**
 - **Learn to play piano.**
 - **Code something that plays a digital piano and generates songs.**
