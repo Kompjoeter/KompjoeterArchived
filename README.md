@@ -56,21 +56,9 @@ Still learning:
 
 # 💻 What am I working on now?
 
-**Rewriting my Personal Website**
-  
-When I first made my website I meant to create something quick and simple so I could have a place to represent myself and my projects. Now that I've had some time to think about how I want to use my website I think it's time for a change! 
-
-Currently I'm still doing some tests and am figuring out what the 'best-way' is to set it up. I'm considering using React. I'm not sure whether this is a conventional choice or not, but I definitely want to improve my React skills and it seems like a fun experiment! 
-
-Nonetheless, I mean to keep it simple. The site should display an overview of my projects and their information/links, of course a small introduction about myself and a blog which I will use to discuss the development process of my projects.
-
-**Making a simple one-page site with Animated Header**
-
-My brother and his roommate approached me to build them a webpage for their campaign of keeping our hometown clean! 
-
-The site will be fairly simple and minimal. It will display some information about the campaign and have a animated header, using SVGs. 
-
-Working on these animations is new and exciting and making the SVGs is easier then I expected! I'm looking forward to improve my CSS animation skills and perhaps use it to make some artistic creations with. I'll definitely be adding some small animations to my own website's redesign to spice up the UI!
+- **Redesigning my personal website**
+- **Making a simple informative one-page site with animated (svg) header**
+- **Improving my skills in Blender 3D-Modeling software by following a tutorial series**
 
 # 🗨️ Socials
 
