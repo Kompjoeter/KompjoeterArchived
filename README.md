@@ -37,6 +37,7 @@ Other
 - **Pixel Art**
 - **Blender 3D**
 - **Video Editing in DaVinci Resolve**
+- **Acrylic Painting**
 
 <details><summary>Show me some projects!</summary>
   <br>
