@@ -50,7 +50,7 @@ Still learning:
     <li><a href="https://github.com/RanDByyp/MapGen-Bronze">Console Map Generator</a> <b>(C#, Json)</b></li>
     <li><a href="https://randbyyp.github.io/Dice-Roller/">Online Dice Roller</a> <b>(HTML, CSS, Javascript, Angular)</b></li>
     <li><a href="https://randbyyp.github.io/Responsive-Template-Canvas-UI/">Responsive Template Canvas UI</a> <b>(HTML, CSS, Javascript)</b></li>
-    <li><a href="https://github.com/RanDByyp/Generation-Station-Random-Walker">Generative Art Experiment</a> <b>(HTML, CSS, Javascript, p5.js)</b></li>
+    <li><a href="https://randbyyp.github.io/Generation-Station-Random-Walker/">Generative Art Experiment</a> <b>(HTML, CSS, Javascript, p5.js)</b></li>
     <li><a href="https://randatabase.itch.io/">A variety of Game-Maker-Studio-2 Projects!</a><b> (GameMakerLanguage)</b></li>
   </ul>
 
