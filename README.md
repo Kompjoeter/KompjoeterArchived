@@ -1,5 +1,7 @@
 # **Read me!**
 
+[Go to Real Cool Heading section](#test)d
+
 🧔🏼 **Who am I?**
 
 - **Joran de Boer**
@@ -79,6 +81,8 @@ Working on these animations is new and exciting and making the SVGs is easier th
 
 </p>
 </details>
+
+# Test
 
 🗨️ **Socials**
 
