@@ -71,6 +71,7 @@ Still learning:
 - **Code and create a video game.**
 - **Learn to play piano.**
 - **Code something that plays a digital piano and generates songs.**
+- **Learn more about Artificial Intelligence**
 
 # 🔗 Where else can you find me?
 
