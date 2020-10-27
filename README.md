@@ -34,6 +34,7 @@ Other
 
 - **Photoshop and similair programs**
 - **Illustrator and similair programs**
+- **Pixel Art**
 - **Blender 3D**
 - **Video Editing in DaVinci Resolve**
 
