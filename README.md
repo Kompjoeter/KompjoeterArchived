@@ -1,7 +1,7 @@
 **Welcome to my GitHub Profile!**
 
 Want to learn more about me? **Scroll along!**<br/>
-Want to jump straight into my projects? [Click here!](#some-of-my-work)
+Want to jump straight into my projects? [Click here!](#some-of-my-projects)
 
 # 🧔🏼 Who am I?
 
@@ -38,7 +38,8 @@ Still learning
 - **Blender 3D** 
 - **Video Editing Software DaVinci Resolve**
  
-### Some of my work:
+### Some of my projects:
+  *These are solo-made projects by me Joran de Boer.*
   <br>
   <ul>
     <li><a href="https://randbyyp.github.io/">Personal Website</a> <b>(HTML, CSS, Javascript)</b></li>
