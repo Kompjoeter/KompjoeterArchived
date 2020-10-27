@@ -71,11 +71,11 @@ Nonetheless, I mean to keep it simple. The site should display an overview of my
 <details><summary>Making a simple one-page site with Animated Header</summary>
 <p>
 
-My brother and his roommate approached me to build them a webpage for their campaign of keeping our hometown clean. 
+My brother and his roommate approached me to build them a webpage for their campaign of keeping our hometown clean! 
 
 The site will be fairly simple and minimal. It will display some information about the campaign and have a animated header, using SVGs. 
 
-Working on these animations is new and exciting and making the SVGs is easier then I expected!
+Working on these animations is new and exciting and making the SVGs is easier then I expected! I'm looking forward to improve my CSS animation skills and perhaps use it to make some artistic creations with. I'll definitely be adding some small animations to my own website's redesign to spice up the UI!
 
 </p>
 </details>
