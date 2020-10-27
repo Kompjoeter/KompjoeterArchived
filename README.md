@@ -1,6 +1,8 @@
-## Welcome!
-[Want to jump straight into my projects? Click here!](#test-heading)
-[Want to learn more about me? Scroll along!(#projects)
+## Welcome to my GitHub Profile!
+
+### Want to learn more about me? Scroll along!
+### Want to jump straight into my projects? [Click here!](#projects)<br/>
+
 
 # Who am I?
 
@@ -9,15 +11,9 @@
 - **From the Netherlands**
 - **Graduated in 'Art: Decoration and Restoration'**
 
-<details><summary>Tell me more!</summary>
-<p>
-  
 Having spent most of my life pursuing art, my interest in programming came as a surprise. I find it offers both a breadth and depth, yet is more tangible and less subjective than art. It's a fresh wind I mean to explore further.
 
 Currently, I am focused on improving my front-end skills but I'm also very excited about Generative Art, Procedural Generation and Game Development. When I can find the time I paint on canvas and I'm curious to someday combine this with my interest in programming.
-
-</p>
-</details>
 
 🛠️ **What have I worked with?**
 
