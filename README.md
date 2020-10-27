@@ -60,6 +60,6 @@ Still learning:
 - **Making a simple informative one-page site with animated (svg) header**
 - **Improving my skills in Blender 3D-Modeling software by following a tutorial series**
 
-# 🗨️ Socials
+# 🗨️ Where else can you find me?
 
 https://twitter.com/RandbYyp<br/>https://randbyyp.github.io/
