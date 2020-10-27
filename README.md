@@ -35,7 +35,8 @@ Other
 - **Video Edit Software DaVinci Resolve**
 - **Acrylic Painting**
 
-# 💾 My projects
+# 💾 
+# My projects
   <br>
   <ul>
     <li><a href="https://randbyyp.github.io/">Personal Website</a> <b>(HTML, CSS, Javascript)</b></li>
