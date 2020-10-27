@@ -1,10 +1,9 @@
-## Welcome to my GitHub Profile!
+### Welcome to my GitHub Profile!
 
-### Want to learn more about me? Scroll along!
-### Want to jump straight into my projects? [Click here!](#projects)<br/>
+## Want to learn more about me? Scroll along!
+## Want to jump straight into my projects? [Click here!](#projects)<br/>
 
-
-# Who am I?
+# 🧔🏼 Who am I?
 
 - **Joran de Boer**
 - **28 years old**
@@ -30,11 +29,10 @@ Programming
 
 Other
 
-- **Photoshop and similair programs**
-- **Illustrator and similair programs**
-- **Pixel Art**
+- **Raster Graphics Editors (e.g. Photoshop)**
+- **Vector Graphics Editors (e.g. Illustrator)*
 - **Blender 3D**
-- **Video Editing in DaVinci Resolve**
+- **Video Edit Software DaVinci Resolve**
 - **Acrylic Painting**
 
 # Projects
