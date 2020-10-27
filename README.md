@@ -1,8 +1,8 @@
-# **Read me!**
+## Welcome!
+[Want to jump straight into my projects? Click here!](#test-heading)
+[Want to learn more about me? Scroll along!(#projects)
 
-[Go to Real Cool Heading section](#test)d
-
-🧔🏼 **Who am I?**
+# Who am I?
 
 - **Joran de Boer**
 - **28 years old**
@@ -41,6 +41,7 @@ Other
 - **Video Editing in DaVinci Resolve**
 - **Acrylic Painting**
 
+# Projects
 <details><summary>Show me some projects!</summary>
   <br>
   <ul>
@@ -81,8 +82,6 @@ Working on these animations is new and exciting and making the SVGs is easier th
 
 </p>
 </details>
-
-# Test
 
 🗨️ **Socials**
 
