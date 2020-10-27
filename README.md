@@ -1,7 +1,7 @@
-### Welcome to my GitHub Profile!
+**Welcome to my GitHub Profile!**
 
-## Want to learn more about me? Scroll along!
-## Want to jump straight into my projects? [Click here!](#projects)<br/>
+Want to learn more about me? **Scroll along!**<br/>
+Want to jump straight into my projects? [Click here!](#💾-my-projects)
 
 # 🧔🏼 Who am I?
 
