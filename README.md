@@ -17,7 +17,7 @@ Currently, I am focused on improving my front-end skills but I'm also very excit
 
 # 🛠️ What have I worked with?
 
-Programming languages etc.
+Programming languages etc:
 
 - **HTML/CSS**
 - **Javascript**
@@ -28,19 +28,19 @@ Programming languages etc.
 - **Json**
 - **GML (GameMakerLanguage)**
 
-Other tools
+Other tools:
 
 - **Raster Graphics Editors (e.g. Photoshop)**
 - **Vector Graphics Editors (e.g. Illustrator)**
 - **Acrylic Paint**
 
-Still learning
+Still learning:
 
 - **Blender 3D** 
 - **Video Editing Software DaVinci Resolve**
  
 ### Some of my projects:
-  *While I may have used libraries, looked up some solutions here and there, or have asked people for some quick advice, all of these projects are solo-projects made by me (Joran de Boer) and have NOT been made in a team-environment.*
+*While I may have used libraries, looked up some solutions here and there, or have asked people for some quick advice, all of these projects are solo-projects made by me (Joran de Boer) and have NOT been made in a team-environment.*
   <br>
   <ul>
     <li><a href="https://randbyyp.github.io/">Personal Website</a> <b>(HTML, CSS, Javascript)</b></li>
@@ -54,10 +54,9 @@ Still learning
     <li><a href="https://randatabase.itch.io/">A variety of Game-Maker-Studio-2 Projects!</a><b> (GameMakerLanguage)</b></li>
   </ul>
 
-💻 **What am I working on now?**
+# 💻 What am I working on now?
 
-<details><summary>Rewriting my Personal Website</summary>
-<p>
+**Rewriting my Personal Website**
   
 When I first made my website I meant to create something quick and simple so I could have a place to represent myself and my projects. Now that I've had some time to think about how I want to use my website I think it's time for a change! 
 
@@ -65,11 +64,7 @@ Currently I'm still doing some tests and am figuring out what the 'best-way' is 
 
 Nonetheless, I mean to keep it simple. The site should display an overview of my projects and their information/links, of course a small introduction about myself and a blog which I will use to discuss the development process of my projects.
 
-</p>
-</details>
-
-<details><summary>Making a simple one-page site with Animated Header</summary>
-<p>
+**Making a simple one-page site with Animated Header**
 
 My brother and his roommate approached me to build them a webpage for their campaign of keeping our hometown clean! 
 
@@ -77,9 +72,6 @@ The site will be fairly simple and minimal. It will display some information abo
 
 Working on these animations is new and exciting and making the SVGs is easier then I expected! I'm looking forward to improve my CSS animation skills and perhaps use it to make some artistic creations with. I'll definitely be adding some small animations to my own website's redesign to spice up the UI!
 
-</p>
-</details>
-
-🗨️ **Socials**
+# 🗨️ Socials
 
 https://twitter.com/RandbYyp<br/>https://randbyyp.github.io/
