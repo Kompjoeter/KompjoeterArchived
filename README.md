@@ -82,6 +82,6 @@ Recently I started doing some **Blender 3D** Tutorials. For now I just do it for
 
 For most of my life I've been playing the Table-Top-RPG **Dungeons and Dragons**. It has always been a great inspiration to me and a huge catalyst for all my creative pursuits!
 
-🌅 **
+**Socials**
 
 https://twitter.com/RandbYyp<br/>https://randbyyp.github.io/
