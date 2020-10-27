@@ -9,6 +9,7 @@ Want to jump straight into my projects? [Click here!](#some-of-my-projects)
 - **28 years old**
 - **From the Netherlands**
 - **Graduated in 'Art: Decoration and Restoration'**
+- **Self-Taught in (mostly) Front-End skills**
 
 Having spent most of my life pursuing art, my interest in programming came as a surprise. I find it offers both a breadth and depth, yet is more tangible and less subjective than art. It's a fresh wind I mean to explore further.
 
@@ -39,7 +40,7 @@ Still learning
 - **Video Editing Software DaVinci Resolve**
  
 ### Some of my projects:
-  *These are solo-made projects by me Joran de Boer.*
+  *While I may have used libraries or looked up some solutions here and there, all of these projects are solo-projects made by me (Joran de Boer).*
   <br>
   <ul>
     <li><a href="https://randbyyp.github.io/">Personal Website</a> <b>(HTML, CSS, Javascript)</b></li>
