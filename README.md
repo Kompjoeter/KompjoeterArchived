@@ -40,7 +40,7 @@ Still learning
 - **Video Editing Software DaVinci Resolve**
  
 ### Some of my projects:
-  *While I may have used libraries or looked up some solutions here and there, all of these projects are solo-projects made by me (Joran de Boer).*
+  *While I may have used libraries, looked up some solutions here and there, or have asked people for some quick advice, all of these projects are solo-projects made by me (Joran de Boer) and have NOT been made in a team-environment.*
   <br>
   <ul>
     <li><a href="https://randbyyp.github.io/">Personal Website</a> <b>(HTML, CSS, Javascript)</b></li>
