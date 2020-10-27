@@ -11,7 +11,7 @@ Want to jump straight into my projects? [Click here!](#some-of-my-projects)
 - **Graduated in 'Art: Decoration and Restoration'**
 - **Self-Taught in (mostly) Front-End skills**
 
-Having spent most of my life pursuing art, my interest in programming came as a surprise. I find it offers both a breadth and depth, yet is more tangible and less subjective than art. It's a fresh wind I mean to explore further.
+Having spent most of my life pursuing art, my interest in programming came as a surprise. I find it offers both breadth and depth, yet is more tangible and less subjective than art. It's a fresh wind I mean to explore further.
 
 Currently, I am focused on improving my front-end skills but I'm also very excited about Generative Art, Procedural Generation and Game Development. When I can find the time I paint on canvas and I'm curious to someday combine this with my interest in programming.
 
