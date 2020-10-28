@@ -63,6 +63,7 @@ Still learning:
 
 - **More Front-End skills!**
 - **Back-End skills.**
+- **Learn more about Algorithms**
 - **Create a complex artistic CSS animation using self-made SVGs.**
 - **Code a generator that creates semi-random SVG paths into interesting shapes/images.**
 - **Improve upon my map generator.**
