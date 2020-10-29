@@ -11,9 +11,15 @@ Want to jump straight into my projects? [Click here!](#some-of-my-personal-proje
 - **Graduated in 'Art: Decoration and Restoration'**
 - **Self-Taught in (mostly) Front-End skills**
 
-Having spent most of my life pursuing art, my interest in programming came as a surprise. I find it offers both breadth and depth, yet is more tangible and less subjective than art. It's a fresh wind I mean to explore further.
+As a kid, I could be found either with a pencil in my hand or in front of a computer. Eventually I decided to combine the two and started studying Game-Design (Focussing on Concept Art). Despite my still lingering interest in Game-Development, this didn't work out and I quit before I finished the study. 
 
-Currently, I am focused on improving my front-end skills but I'm also very excited about Generative Art, Procedural Generation and Game Development. When I can find the time I paint on canvas and I'm curious to someday combine this with my interest in programming.
+After some searching and looking into different studies I set my targets on the study of 'Art: Decoration and Restoration'. It was not entirely what I expected, but I got my degree and spend half a year painting on canvas during an amazing internship. When I finished, however, I was left unsatisfied. 
+
+I considered going to an actual Art Academy but after realizing that it probably wouldn't offer me a stable income, I instead started working for my brother as a house painter while I re-evaluated what I wanted out of a job. 
+
+During this time I started looking into programming, inspired by a HTML course I did during my study. My interest in it came as a surprise! I find it offers both breadth and depth, yet is more tangible and less subjective than art. It satisfies both the creative and analytical parts of my brain and it started to dawn on me that it was a far better fit, job-wise, than art. In art I like to have full control, it's something I do for fun and to express myself and I wouldn't enjoy having to make concessions for a paying customer. With programming I don't have this problem. Of course there are certain type of projects I prefer to work on, but I do enjoy the whole process of it. It's challenging and there's always something new to learn which only fuels my enthusiasm more! 
+
+Currently, I focus on improving my front-end skills, but I'm also very excited about Generative Art, Procedural Generation and Game Development (Honestly the list of things I want to learn more about keeps getting longer). I still paint on canvas, when I can find the time, and I'm curious to someday combine this with my interest in programming.
 
 # 🛠️ What have I worked with?
 
@@ -65,7 +71,8 @@ Still learning:
 - **Back-End skills.**
 - **Learn about servers**
 - **Learn about API**
-- **Learn more about Algorithms**
+- **Learn about Algorithms**
+- **Learn about Artificial Intelligence**
 - **Create a complex artistic CSS animation using self-made SVGs.**
 - **Code a generator that creates semi-random SVG paths into interesting shapes/images.**
 - **Improve upon my map generator.**
@@ -73,7 +80,9 @@ Still learning:
 - **Code and create a video game.**
 - **Learn to play piano.**
 - **Code something that plays a digital piano and generates songs.**
-- **Learn more about Artificial Intelligence**
+- **Recreate my Responsive Template Canvas UI in React**
+- **Code something that allows me to add annotations to a text**
+
 
 # 🔗 Where else can you find me?
 
