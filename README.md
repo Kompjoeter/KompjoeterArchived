@@ -48,7 +48,6 @@ Still learning:
 - **Video Editing Software DaVinci Resolve**
  
 ### Some of my personal projects:
-  <br>
   <ul>
     <li><a href="https://randbyyp.github.io/">Personal Website</a> <b>(HTML, CSS, Javascript)</b></li>
     <li><a href="https://randbyyp.github.io/Github-Hosted-Blog/">Github Hosted Blog</a> <b>(HTML, CSS, Javascript, Json)</b></li>
