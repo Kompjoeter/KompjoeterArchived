@@ -84,7 +84,7 @@ Still learning:
 - **Code something that plays a digital piano and generates songs.**
 - **Recreate my Responsive Template Canvas UI in React**
 - **Code something that allows me to add annotations to a text**
-_ **More to come..**
+- **More to come..**
 
 # 🔗 Where else can you find me?
 
