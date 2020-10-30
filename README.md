@@ -50,13 +50,13 @@ Still learning:
 ### Some of my personal projects:
   <ul>
     <li><b>Personal Website (HTML, CSS, Javascript) </b><a href="https://randbyyp.github.io/">Live Project</a></li>
-    <li><a href="https://randbyyp.github.io/Github-Hosted-Blog/">Github Hosted Blog</a> <b>(HTML, CSS, Javascript, Json)</b></li>
-    <li><a href="https://randbyyp.github.io/React-Minesweeper/">React Minesweeper Clone</a> <b>(HTML, CSS, Javascript, React)</b></li>
-    <li><a href="https://randbyyp.github.io/MapGen-Gold/">2D Map Generator</a> <b>(HTML, CSS, Javascript, p5.js)</b></li>
-    <li><a href="https://github.com/RanDByyp/MapGen-Bronze">Console Map Generator</a> <b>(C#, Json)</b></li>
-    <li><a href="https://randbyyp.github.io/Dice-Roller/">Online Dice Roller</a> <b>(HTML, CSS, Javascript, Angular)</b></li>
-    <li><a href="https://randbyyp.github.io/Responsive-Template-Canvas-UI/">Responsive Template Canvas UI</a> <b>(HTML, CSS, Javascript)</b></li>
-    <li><a href="https://randbyyp.github.io/Generation-Station-Random-Walker/">Generative Art Experiment</a> <b>(HTML, CSS, Javascript, p5.js)</b></li>
+    <li><b>Github Hosted Blog (HTML, CSS, Javascript, Json) </b><a href="https://randbyyp.github.io/Github-Hosted-Blog/">Live Project</a></li>
+    <li><b>React Minesweeper Clone (HTML, CSS, Javascript, React) </b><a href="https://randbyyp.github.io/React-Minesweeper/">Live Project</a></li>
+    <li><b>2D Map Generator (HTML, CSS, Javascript, p5.js) </b><a href="https://randbyyp.github.io/MapGen-Gold/">Live Project</a></li>
+    <li><b>Console Map Generator (C#, Json) </b><a href="https://github.com/RanDByyp/MapGen-Bronze">Project Page</a></li>
+    <li><b>Online Dice Roller (HTML, CSS, Javascript, Angular) </b><a href="https://randbyyp.github.io/Dice-Roller/">Live Project</a></li>
+    <li><b>Responsive Template Canvas UI (HTML, CSS, Javascript) </b><a href="https://randbyyp.github.io/Responsive-Template-Canvas-UI/">Live Project</a></li>
+    <li><b>Generative Art Experiment (HTML, CSS, Javascript, p5.js) </b><a href="https://randbyyp.github.io/Generation-Station-Random-Walker/">Live Project</a></li>
     <li><a href="https://randatabase.itch.io/">A variety of Game-Maker-Studio-2 Projects!</a><b> (GameMakerLanguage)</b></li>
   </ul>
 
