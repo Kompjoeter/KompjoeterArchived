@@ -53,7 +53,7 @@ Still learning:
     <li><b>Github Hosted Blog (HTML, CSS, Javascript, Json) </b><a href="https://randbyyp.github.io/Github-Hosted-Blog/">Live Project</a></li>
     <li><b>React Minesweeper Clone (HTML, CSS, Javascript, React) </b><a href="https://randbyyp.github.io/React-Minesweeper/">Live Project</a></li>
     <li><b>2D Map Generator (HTML, CSS, Javascript, p5.js) </b><a href="https://randbyyp.github.io/MapGen-Gold/">Live Project</a></li>
-    <li><b>Console Map Generator (C#, Json) </b><a href="https://github.com/RanDByyp/MapGen-Bronze">Project Page</a></li>
+    <li><b>Console Map Generator (C#, Json) </b><a href="https://github.com/RanDByyp/MapGen-Bronze">Project Repo</a></li>
     <li><b>Online Dice Roller (HTML, CSS, Javascript, Angular) </b><a href="https://randbyyp.github.io/Dice-Roller/">Live Project</a></li>
     <li><b>Responsive Template Canvas UI (HTML, CSS, Javascript) </b><a href="https://randbyyp.github.io/Responsive-Template-Canvas-UI/">Live Project</a></li>
     <li><b>Generative Art Experiment (HTML, CSS, Javascript, p5.js) </b><a href="https://randbyyp.github.io/Generation-Station-Random-Walker/">Live Project</a></li>
