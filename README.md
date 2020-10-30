@@ -74,6 +74,7 @@ Still learning:
 - **Learn about API**
 - **Learn about Algorithms**
 - **Learn about Artificial Intelligence**
+- **Learn about Data Visualization**
 - **Create a complex artistic CSS animation using self-made SVGs.**
 - **Code a generator that creates semi-random SVG paths into interesting shapes/images.**
 - **Improve upon my map generator.**
