@@ -49,7 +49,7 @@ Still learning:
  
 ### Some of my personal projects:
   <ul>
-    <li><a href="https://randbyyp.github.io/">Personal Website</a> <b>(HTML, CSS, Javascript)</b></li>
+    <li><b>Personal Website (HTML, CSS, Javascript) </b><a href="https://randbyyp.github.io/">Live Project</a></li>
     <li><a href="https://randbyyp.github.io/Github-Hosted-Blog/">Github Hosted Blog</a> <b>(HTML, CSS, Javascript, Json)</b></li>
     <li><a href="https://randbyyp.github.io/React-Minesweeper/">React Minesweeper Clone</a> <b>(HTML, CSS, Javascript, React)</b></li>
     <li><a href="https://randbyyp.github.io/MapGen-Gold/">2D Map Generator</a> <b>(HTML, CSS, Javascript, p5.js)</b></li>
