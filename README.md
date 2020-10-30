@@ -57,7 +57,7 @@ Still learning:
     <li><b>Online Dice Roller (HTML, CSS, Javascript, Angular) </b><a href="https://randbyyp.github.io/Dice-Roller/">Live Project</a><b>-</b><a href="https://github.com/RanDByyp/Dice-Roller">Project Repo</a></li>
     <li><b>Responsive Template Canvas UI (HTML, CSS, Javascript) </b><a href="https://randbyyp.github.io/Responsive-Template-Canvas-UI/">Live Project</a><b>-</b><a href="https://github.com/RanDByyp/Responsive-Template-Canvas-UI">Project Repo</a></li>
     <li><b>Generative Art Experiment (HTML, CSS, Javascript, p5.js) </b><a href="https://randbyyp.github.io/Generation-Station-Random-Walker/">Live Project</a><b>-</b><a href="https://github.com/RanDByyp/Generation-Station-Random-Walker">Project Repo</a></li>
-    <li><a href="https://randatabase.itch.io/">A variety of Game-Maker-Studio-2 Projects!</a><b> (GameMakerLanguage)</b></li>
+    <li><b>A variety of Game-Maker-Studio-2 Projects! (GameMakerLanguage)</b><a href="https://randatabase.itch.io/">Itch.io</a></li>
   </ul>
 
 # 👨‍💻 What am I working on now?
