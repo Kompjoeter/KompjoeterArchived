@@ -36,7 +36,7 @@ I love art for the freedom it offers but as I said, I realized I prefer it as a 
 <br><br>
 </details>
 
-Currently, I focus on improving my front-end skills, but my [list of interests](#what-else-do-i-want-to-create-or-learn-in-the-future) keeps growing! I still paint on canvas, when I can find the time, and I'm curious to someday combine my interest in art with my interest in programming.
+Currently, I focus on improving my front-end skills, but my [list of interests](#what-else-do-i-want-to-create-or-learn-in-the-future) keeps growing! I still paint on canvas, when I can find the time, and I'm curious to someday combine this with my interest in programming.
 
 # What have I worked with?
 
