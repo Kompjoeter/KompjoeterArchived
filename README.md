@@ -78,7 +78,7 @@ Still learning:
 - **Making a simple informative one-page site with animated (SVG) header.**
 - **Getting familiar with Blender 3D-Modeling software by following a tutorial series.**
 
-# What else do I want to create or learn in the future?
+# 💡 What else do I want to create or learn in the future?
 
 - **More Front-End skills!**
 - **Back-End skills.**
