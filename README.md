@@ -91,9 +91,9 @@ Still learning:
 - **Learn about Artificial Intelligence**
 - **Learn about Data Visualization**
 - **Learn about coding standards/conventions**
-- **Learn to create accessible User Interfaces.
-- **Learn how to better organize large projects.
-- **Improve my HTML, CSS and Javascript skills.
+- **Learn to create accessible User Interfaces.**
+- **Learn how to better organize large projects.**
+- **Improve my HTML, CSS and Javascript skills.**
 - **Recreate my Responsive Template Canvas UI**
 - **Improve upon my Map-Generator.**
 - **Create a complex artistic CSS animation using self-made SVGs.**
