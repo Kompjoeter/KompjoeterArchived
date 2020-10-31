@@ -84,21 +84,22 @@ Still learning:
 # What else do I want to create or learn in the future?
 
 - **More Front-End skills!**
-- **Back-End skills.**
+- **Some Back-End skills.**
 - **Learn about servers**
 - **Learn about API**
 - **Learn about Algorithms**
 - **Learn about Artificial Intelligence**
 - **Learn about Data Visualization**
+- **Learn about coding standards/conventions**
+- **Learn to create accessible User Interfaces.
+- **Improve my HTML, CSS and Javascript skills.
+- **Recreate my Responsive Template Canvas UI**
+- **Improve upon my Map-Generator.**
 - **Create a complex artistic CSS animation using self-made SVGs.**
-- **Code a generator that creates semi-random SVG paths into interesting shapes/images.**
-- **Improve upon my map generator.**
 - **Code a generator that creates painting-style images from photos.**
 - **Code and create a video game.**
 - **Learn to play piano.**
 - **Code something that plays a digital piano and generates songs.**
-- **Recreate my Responsive Template Canvas UI in React**
-- **Code something that allows me to add annotations to a text**
 - **More to come..**
 
 # 🔗 Where else can you find me?
