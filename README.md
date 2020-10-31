@@ -22,7 +22,7 @@ During this time I started looking into programming, inspired by a HTML course I
 In art I like to have full control, it's something I do for fun and to express myself and I wouldn't enjoy having to make concessions for a paying customer. With programming I don't have this problem. Of course there are certain type of projects I prefer to work on, but I enjoy the whole process of it. It's challenging and there's always something new to learn which only fuels my enthusiasm more! 
 
 <details>
- <summary><b>What do you mean by:</b> <i>'I find it (programming) offers both breadth and depth,</i><b> yet is more tangible and less subjective than art.'?</b>
+ <summary><b>What do you mean by</b> <i>'I find it (programming) offers both breadth and depth,</i><b> yet is more tangible and less subjective than art.'?:</b>
  </summary>
 
 As I see it, in art the artist usually tries to make something beautifull, wants to leave an impression or tell a story. It's up to them to decide what medium they use for this and how they go about it. Of course there are certain ideas about 'what makes a good composition' or 'which colors fit well together', but in the end whether something is appealing, or even considered art, is simply a question of taste and opinion. There are little to no consequenses to whether one paints a blue or red sky. One can even decide to leave a canvas blank and consider it finished! The way I experience art is very freeform. I do what I think is right, but I don't stop to measure it to a set standard. I would prefer that people like the things I make, but I don't think their opinion makes the things I make any less self-expressive, or any less 'art'.
@@ -33,7 +33,7 @@ I love art for the freedom it offers but as I said, I realized I prefer it as ho
 
 </details>
 
-Currently, I focus on improving my front-end skills, but I'm also very excited about Generative Art, Procedural Generation and Game Development (Honestly the list of things I want to learn more about keeps getting longer). I still paint on canvas, when I can find the time, and I'm curious to someday combine this with my interest in programming.
+Currently, I focus on improving my front-end skills, but my [list of interests](#-💡-what-else-do-i-want-to-create/learn-in-the-future?) keeps growing!. I still paint on canvas, when I can find the time, and I'm curious to someday combine this with my interest in programming.
 
 # 🛠️ What have I worked with?
 
