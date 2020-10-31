@@ -92,6 +92,7 @@ Still learning:
 - **Learn about Data Visualization**
 - **Learn about coding standards/conventions**
 - **Learn to create accessible User Interfaces.
+- **Learn how to better organize large projects.
 - **Improve my HTML, CSS and Javascript skills.
 - **Recreate my Responsive Template Canvas UI**
 - **Improve upon my Map-Generator.**
