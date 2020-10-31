@@ -3,7 +3,8 @@
 Want to learn more about me? **Scroll along!**<br/>
 Want to jump straight into my projects? [Click here!](#some-of-my-personal-projects)
 
-# 🧔🏼 Who am I?
+# 🧔🏼
+# Who am I?
 
 - **Joran de Boer**
 - **28 years old**
@@ -35,7 +36,8 @@ I love art for the freedom it offers but as I said, I realized I prefer it as ho
 
 Currently, I focus on improving my front-end skills, but my [list of interests](#list) keeps growing! I still paint on canvas, when I can find the time, and I'm curious to someday combine this with my interest in programming.
 
-# 🛠️ What have I worked with?
+# 🛠️ 
+# What have I worked with?
 
 Programming languages etc:
 
@@ -71,14 +73,16 @@ Still learning:
     <li><b>Generative Art Experiment (HTML, CSS, Javascript, p5.js) </b><a href="https://randbyyp.github.io/Generation-Station-Random-Walker/">Live Project</a><b>-</b><a href="https://github.com/RanDByyp/Generation-Station-Random-Walker">Project Repo</a></li>
     <li><b>A variety of Game-Maker-Studio-2 Projects! (Game-Maker-Language)</b><a href="https://randatabase.itch.io/"> Itch.io</a></li>
   </ul>
-
-# 👨‍💻 What am I working on now?
+  
+# 👨‍💻
+# What am I working on now?
 
 - **Redesigning my personal website.**
 - **Making a simple informative one-page site with animated (SVG) header.**
 - **Getting familiar with Blender 3D-Modeling software by following a tutorial series.**
 
-# 💡 What else do I want to create/learn in the future?
+# 💡 
+# What else do I want to create/learn in the future?
 <!--# List-->
 - **More Front-End skills!**
 - **Back-End skills.**
