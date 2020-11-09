@@ -11,7 +11,7 @@ Want to jump straight into my projects? [Click here!](#some-of-my-personal-proje
 - **Graduated in 'Art: Decoration and Restoration'**
 - **Self-Taught in (mostly) Front-End skills**
 
-As a kid, I could be found either with a pencil in my hand or [in front of a computer](https://raw.githubusercontent.com/RanDByyp/RanDByyp/master/20201027_201220_mfnr.jpg). Eventually I decided to combine the two and started studying Game-Design (Focussing on Concept Art). Despite my still lingering interest in Game-Development, this didn't work out and I quit before I finished the study. 
+As a kid, I could be found either with a pencil in my hand or [in front of a computer](https://raw.githubusercontent.com/RanDByyp/RanDByyp/master/20201027_201220_mfnr.jpg). Eventually I decided to combine the two and started studying Game-Design (Focussing on Concept Art). Despite my still lingering interest in Game-Development, this didn't work out and I quit before I finished the study.
 
 After some searching and looking into different studies I set my targets on the study of 'Art: Decoration and Restoration'. It was not entirely what I expected, but I got my degree and spend half a year painting on canvas during an amazing internship. When I finished, however, I was left unsatisfied. 
 
@@ -81,8 +81,9 @@ Still learning:
 - **Improve my HTML, CSS and Javascript skills.**
 - **Recreate my Responsive Template Canvas UI**
 - **Improve upon my Map-Generator.**
+- **Create more complex websites.**
 - **Create a complex artistic CSS animation using self-made SVGs.**
-- **Code a generator that creates painting-style images from photos.**
+- **Create a series of basic SVG Icons for use on the web.
 - **Code and create a video game.**
 - **Learn to play piano.**
 - **Code something that plays a digital piano and generates songs.**
