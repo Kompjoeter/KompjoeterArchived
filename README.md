@@ -19,7 +19,9 @@ I considered going to an actual Art Academy but after realizing that it probably
 
 During this time I started looking into programming, inspired by a HTML course I did during my study. My interest in it came as a surprise! I find it offers both breadth and depth, yet is more tangible and less subjective than art. It satisfies both the creative and analytical parts of my brain and it started to dawn on me that it was a far better fit, job-wise, than art. 
 
-In art I like to have full control, it's something I do for fun and to express myself and I wouldn't enjoy having to make concessions for a paying customer. With programming I don't have this problem. Of course there are certain type of projects I prefer to work on, but I enjoy the whole process of it. It's challenging and there's always something new to learn which only fuels my enthusiasm more! 
+In art I like to have full control, it's something I do for fun and to express myself and I wouldn't enjoy having to make concessions for a paying customer. In art, I'm more concerned with the end-product and the kinds of projects I work on than the road towards it. 
+
+With programming I enjoy the whole process. It's challenging and there's always something new to learn which only fuels my enthusiasm more! I'm interested in doing things the 'right' way, improving my skills and creating a product of quality. I get enough satisfaction from working on a project, learning new tools/languages, discussing the best solutions to use, that I'm less concerned with what project I'm actually working on (A fun and exciting program is a plus though!).
 
 Currently, I focus on improving my front-end skills, but my [list of interests](#what-else-do-i-want-to-create-or-learn-in-the-future) keeps growing! I still paint on canvas, when I can find the time, and I'm curious to someday combine this with my interest in programming.
 
