@@ -62,6 +62,7 @@ Still learning:
   
 # What am I working on now?
 
+- **Getting into a study/finding an internship.**
 - **Redesigning my personal website.**
 - **Making a simple informative one-page site with animated (SVG) header.**
 - **Getting familiar with Blender 3D-Modeling software by following a tutorial series.**
