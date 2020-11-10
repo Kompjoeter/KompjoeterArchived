@@ -84,6 +84,8 @@ Still learning:
 - **Improve my HTML, CSS and Javascript skills.**
 - **Recreate my Responsive Template Canvas UI**
 - **Improve upon my Map-Generator.**
+- **Redesign my website, experiment with mutiple different CSS styling**
+- **Create a tool to record and visualize personal growth (Cognitive Restructuring).**
 - **Create more complex websites.**
 - **Create a complex artistic CSS animation using self-made SVGs.**
 - **Create a series of basic SVG Icons for use on the web.**
