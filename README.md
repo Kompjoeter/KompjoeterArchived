@@ -73,18 +73,19 @@ Still learning:
 
 - **More Front-End skills!**
 - **Some Back-End skills.**
-- **Learn about servers**
-- **Learn about API**
-- **Learn about Algorithms**
-- **Learn about Artificial Intelligence**
-- **Learn about Data Visualization**
-- **Learn more about coding standards/conventions**
+- **Learn about servers.**
+- **Learn about API.**
+- **Learn about Algorithms.**
+- **Learn about Artificial Intelligence.**
+- **Learn about Data Visualization.**
+- **Learn more about coding standards/conventions.**
 - **Learn more about creating accessible User Interfaces.**
 - **Learn how to better organize large projects.**
+- **Learn more about Web-Design.**
 - **Improve my HTML, CSS and Javascript skills.**
 - **Recreate my Responsive Template Canvas UI**
 - **Improve upon my Map-Generator.**
-- **Redesign my website, experiment with mutiple different CSS styling**
+- **Redesign my website, experiment with mutiple different CSS styling.**
 - **Create a tool to record and visualize personal growth (Cognitive Restructuring).**
 - **Create more complex websites.**
 - **Create a complex artistic CSS animation using self-made SVGs.**
