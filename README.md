@@ -66,7 +66,7 @@ Still learning:
 
 - **Getting into a study/finding an internship.**
 - **Redesigning my personal website.**
-- **Making a simple informative one-page site with animated (SVG) header.**
+- **Making a simple informative one-page site with animated (SVG) header.** [WIP-Sneak-Peek](https://randbyyp.github.io/GAS-Hand-Animation/)
 - **Getting familiar with Blender 3D-Modeling software by following a tutorial series.**
 
 # What else do I want to create or learn in the future?
