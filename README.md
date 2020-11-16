@@ -15,7 +15,7 @@ Having spent most of my life pursuing art, my interest in programming came as a 
 
 However, after I graduated from the study 'Art: Restoration and Decoration' I was left unsatisfied. It started to dawn on me that art might not be the best career choice. Obviously, because it doesn't offer a stable income, but mainly because I started to realize I prefer to keep it as a hobby, allowing me to create whatever I want, not worrying about the wishes and demands of customers. In art, I'm more focused on self-expression or attempting to create a certain end-product, whatever means necessary.
 
-In programming I'm less concerned about what project I'm working on and far more interested in improving my skills, learning about standards/conventions, and creating a quality product. Whether that product is for myself or for a paying customer, I enjoy the whole process of making it!
+In programming I'm less concerned about what project I'm working on and far more interested in improving my skills, learning about standards/conventions, and creating a quality product. Whether that would be a product for myself or for a paying customer, I enjoy the whole process of making it!
 
 It scratches a different part of my brain and challenges me both creatively and logically. Each new thing I learn fuels my enthusiasm and motivation. This constant-learning aspect of programming keeps me engaged and curious.
 
