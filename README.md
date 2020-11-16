@@ -11,11 +11,11 @@ Want to jump straight into my projects? [Click here!](#some-of-my-personal-proje
 - **Graduated in 'Art: Decoration and Restoration'**
 - **Self-Taught in (mostly) Front-End skills**
 
-Having spend most of my life pursuing art, my interest in programming came as a pleasant surprise!
+Having spent most of my life pursuing art, my interest in programming came as a pleasant surprise! I've been interested in computers since I was a kid and could be found either with a pencil in my hand or sitting in front of a PC, but my studies have always been oriented towards more artistic endeavors.
 
-After I graduated from the study 'Art: Restoration and Decoration' I was left unsatisfied. It started to dawn on me that art might not be the best career choice. Obviously because it doesn't offer a stable income, but mainly because I started to realize I prefer to keep it as hobby, allowing me to create whatever I want, not worrying about the wishes and demands of customers. In art I'm more focused on self-expression or attempting to create a certain end-product, whatever means nessecary.
+However, after I graduated from the study 'Art: Restoration and Decoration' I was left unsatisfied. It started to dawn on me that art might not be the best career choice. Obviously, because it doesn't offer a stable income, but mainly because I started to realize I prefer to keep it as a hobby, allowing me to create whatever I want, not worrying about the wishes and demands of customers. In art, I'm more focused on self-expression or attempting to create a certain end-product, whatever means necessary.
 
-In programming I'm less concerned about what project I'm working on and far more interested in improving my skills, learning about standards/conventions and creating a quality product.
+In programming I'm less concerned about what project I'm working on and far more interested in improving my skills, learning about standards/conventions, and creating a quality product.
 
 It scratches a different part of my brain and challenges me both creatively and logically. Each new thing I learn fuels my enthusiasm and motivation. This constant-learning aspect of programming keeps me engaged and curious.
 
