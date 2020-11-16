@@ -11,19 +11,17 @@ Want to jump straight into my projects? [Click here!](#some-of-my-personal-proje
 - **Graduated in 'Art: Decoration and Restoration'**
 - **Self-Taught in (mostly) Front-End skills**
 
-As a kid, I could be found either with a pencil in my hand or [in front of a computer](https://raw.githubusercontent.com/RanDByyp/RanDByyp/master/20201027_201220_mfnr.jpg). Eventually I decided to combine the two and started studying Game-Design (Focussing on Concept Art). Despite my still lingering interest in Game-Development, this didn't work out and I quit before I finished the study.
+Having spend most of my life pursuing art, my interest in programming came as a pleasant surprise!
 
-After some searching and looking into different studies I set my targets on the study of 'Art: Decoration and Restoration'. It was not entirely what I expected, but I got my degree and spend half a year painting on canvas during an amazing internship. When I finished, however, I was left unsatisfied. 
+After I graduated from the study 'Art: Restoration and Decoration' I was left unsatisfied. It started to dawn on me that art might not be the best career choice. Obviously because it doesn't offer a stable income, but mainly because I started to realize I prefer to keep it as hobby, allowing me to create whatever I want, not worrying about the wishes and demands of customers. In art I'm more focused on self-expression or attempting to create a certain end-product, whatever means nessecary.
 
-I considered going to an actual Art Academy but after realizing that it probably wouldn't offer me a stable income, I instead started working for my brother as a house painter while I re-evaluated what I wanted out of a job. 
+In programming I'm less concerned about what project I'm working on and far more interested in improving my skills, learning about standards/conventions and creating a quality product.
 
-During this time I started looking into programming, inspired by a HTML course I did during my study. My interest in it came as a surprise! I find it offers both breadth and depth, yet is more tangible and less subjective than art. It satisfies both the creative and analytical parts of my brain and it started to dawn on me that it was a far better fit, job-wise, than art. 
+It scratches a different part of my brain and challenges me both creatively and logically. Each new thing I learn fuels my enthusiasm and motivation. This constant-learning aspect of programming keeps me engaged and curious.
 
-In art I like to have full control, it's something I do for fun and to express myself and I wouldn't enjoy having to make concessions for a paying customer. In art, I'm more concerned with the end-product and the kinds of projects I work on than the road towards it. 
+While I'm currently focusing on improving my Front-End skills, which I think suits me best, I'm definitely interested in what lies beyond and what else programming has to offer me. 
 
-With programming I enjoy the whole process. It's challenging and there's always something new to learn which only fuels my enthusiasm more! I'm interested in doing things the 'right' way, improving my skills and creating a product of quality. I get enough satisfaction from working on a project, learning new tools/languages, discussing the best solutions to use, that I'm less concerned with what project I'm actually working on (A fun and exciting program is a plus though!).
-
-Currently, I focus on improving my front-end skills, but my [list of interests](#what-else-do-i-want-to-create-or-learn-in-the-future) keeps growing! I still paint on canvas, when I can find the time, and I'm curious to someday combine this with my interest in programming.
+I have more ideas than time and keep adding new entries to my [list of interests](#what-else-do-i-want-to-create-or-learn-in-the-future).
 
 # What have I worked with?
 
@@ -64,7 +62,8 @@ Still learning:
   
 # What am I working on now?
 
-- **Getting into a study/finding an internship.**
+- **Getting into a study** ✅
+- **Finding an internship.**
 - **Redesigning my personal website.**
 - **Making a simple informative one-page site with animated (SVG) header.** [WIP-Sneak-Peek](https://randbyyp.github.io/GAS-Hand-Animation/)
 - **Getting familiar with Blender 3D-Modeling software by following a tutorial series.**
