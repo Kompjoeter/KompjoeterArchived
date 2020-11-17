@@ -11,9 +11,9 @@ Want to jump straight into my projects? [Click here!](#some-of-my-personal-proje
 - **Graduated in 'Art: Decoration and Restoration'**
 - **Self-Taught in (mostly) Front-End skills**
 
-Having spent most of my life pursuing art, my interest in programming came as a pleasant surprise! I've been interested in computers since I was a kid and could be found either with a pencil in my hand or sitting in front of a PC, but my studies have always been oriented towards more artistic endeavors.
+As a kid, I could be found either with a pencil in my hand or sitting in front of a PC, but my studies have always been oriented towards more artistic endeavors. Therefore my interest in programming came as a pleasant, yet fitting, surprise!
 
-However, after I graduated from the study 'Art: Restoration and Decoration' I was left unsatisfied. It started to dawn on me that art might not be the best career choice. Obviously, because it doesn't offer a stable income, but mainly because I started to realize I prefer to keep it as a hobby, allowing me to create whatever I want, not worrying about the wishes and demands of customers. In art, I'm more focused on self-expression or attempting to create a certain end-product, whatever means necessary.
+After I graduated from the study 'Art: Restoration and Decoration' I was left unsatisfied. It started to dawn on me that art might not be the best career choice. Obviously, because it doesn't offer a stable income, but mainly because I started to realize I prefer to keep it as a hobby, allowing me to create whatever I want, not worrying about the wishes and demands of customers. In art, I'm more focused on self-expression or attempting to create a certain end-product, whatever means necessary.
 
 In programming I'm less concerned about what project I'm working on and far more interested in improving my skills, learning about standards/conventions, and creating a quality product. Whether that would be a product for myself or for a paying customer, I enjoy the whole process of making it!
 
