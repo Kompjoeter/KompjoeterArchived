@@ -11,7 +11,7 @@ Want to jump straight into my projects? [Click here!](#some-of-my-personal-proje
 - **Graduated in 'Art: Decoration and Restoration'**
 - **Self-Taught in (mostly) Front-End skills**
 
-As a kid, I could be found either with a pencil in my hand or sitting in front of a PC, but my studies have always been oriented towards more artistic endeavors. My interest in programming, triggered by a HTML-course I did during my study, came as a pleasant, yet fitting, surprise!
+As a kid, I could be found either with a pencil in my hand or sitting in front of a PC, but my studies have always been oriented towards more artistic endeavors. My interest in programming, triggered by an HTML-course I did during my study, came as a pleasant, yet fitting, surprise!
 
 After I graduated from the study 'Art: Restoration and Decoration' I was left unsatisfied. It started to dawn on me that art might not be the best career choice. Obviously, because it doesn't offer a stable income, but mainly because I started to realize I prefer to keep it as a hobby, allowing me to create whatever I want, not worrying about the wishes and demands of customers. In art, I'm more focused on self-expression or attempting to create a certain end-product, whatever means necessary.
 
