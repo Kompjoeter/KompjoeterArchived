@@ -89,6 +89,7 @@ Still learning:
 - **Create more complex websites.**
 - **Create a complex artistic CSS animation using self-made SVGs.**
 - **Create a series of basic SVG Icons for use on the web.**
+- **Learn how to create an interactive book UI.**
 - **Code and create a video game.**
 - **Learn to play piano.**
 - **Code something that plays a digital piano and generates songs.**
