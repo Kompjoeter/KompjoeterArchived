@@ -13,15 +13,13 @@ Want to jump straight into my projects? [Click here!](#some-of-my-personal-proje
 
 As a kid, I could be found either with a pencil in my hand or sitting in front of a PC, but my studies have always been oriented towards more artistic endeavors. My interest in programming, triggered by an HTML-course I did during my study, came as a pleasant, yet fitting, surprise!
 
-After I graduated from the study 'Art: Restoration and Decoration' I was left unsatisfied. It started to dawn on me that art might not be the best career choice. Obviously, because it doesn't offer a stable income, but mainly because I started to realize I prefer to keep it as a hobby, allowing me to create whatever I want, not worrying about the wishes and demands of customers. In art, I'm more focused on self-expression or attempting to create a certain end-product, whatever means necessary.
+After I graduated from the study 'Art: Restoration and Decoration' I was left unsatisfied. It started to dawn on me that art might not be the best career choice. Obviously, because it doesn't offer a stable income, but mainly because I started to realize I prefer to keep it as a hobby, allowing me to have full control and create whatever I want.
 
-In programming I'm not worried about what project I'm working on and far more interested in improving my skills, learning about standards/conventions, and creating a quality product. Whether that would be a product for myself or for a paying customer, I enjoy the whole process of making it!
+When I started programming, I discovered it doesn't just allow me to be creative but it also scratches an entirely different part of my brain. It allows me to think analytically and create structure and challenges me to solve complex problems. With every new little thing I learn my enthusiasm and motivation is re-energized which often sparks several new project ideas. Art, for me, is more a means of expression and creative outlet. Programming is a skill I want master.
 
-On top of that, programming seems to scratch a different part of my brain and challenges me both creatively and logically. Each new thing I learn fuels my enthusiasm and motivation. This constant-learning aspect of programming keeps me engaged and curious. 
+As of now I have mostly been focusing on improving my Front-End skills, but with the start of my study I'll also be diving into the Back-End. 
 
-While I'm currently focusing on improving my Front-End skills, which I think suits me best, I'm definitely interested in what lies beyond and what else programming has to offer me. 
-
-I have more ideas than time and keep adding new entries to my [list of interests](#what-else-do-i-want-to-create-or-learn-in-the-future).
+Of course I'll continue to work on personal projects in my free time. I have more ideas than time and keep adding new entries to my [list of interests](#what-else-do-i-want-to-create-or-learn-in-the-future).
 
 # What have I worked with?
 
