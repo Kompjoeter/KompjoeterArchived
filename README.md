@@ -19,7 +19,7 @@ When I started programming I discovered it doesn't just allow me to be creative 
 
 For me, art is more a means of expression and creative outlet. Programming is a skill I want master.
 
-As of now I have mostly been focusing on improving my Front-End skills, but with the start of my study I'll also be diving into the Back-End. 
+As of now I have mostly been focusing on improving my Front-End skills, but with the start of my study I will also be diving into the Back-End. 
 
 Of course I'll continue to work on personal projects in my free time. I have more ideas than time and keep adding new entries to my [list of interests](#what-else-do-i-want-to-create-or-learn-in-the-future).
 
