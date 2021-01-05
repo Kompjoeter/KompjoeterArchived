@@ -49,7 +49,7 @@ Still learning:
  
 ### Some of my personal projects:
   <ul>
-    <li><b>Personal Website (HTML, CSS, Javascript) </b><a href="https://randbyyp.github.io/">Live Project</a><b>-</b><a href="https://github.com/RanDByyp/randbyyp.github.io/">Project Repo</a><b>  Currently working on a re-design.</b></li>
+    <li><b>Personal Website (HTML, CSS, Javascript) </b><a href="https://randbyyp.github.io/">Live Project</a><b>-</b><a href="https://github.com/RanDByyp/randbyyp.github.io/">Project Repo</a><b>  Currently working on a re-design.</b> [WIP-Sneak-Peek](https://randbyyp.github.io/Website-Test/)</li>
     <li><b>Github Hosted Blog (HTML, CSS, Javascript, Json) </b><a href="https://randbyyp.github.io/Github-Hosted-Blog/">Live Project</a><b>-</b><a href="https://github.com/RanDByyp/Github-Hosted-Blog">Project Repo</a></li>
     <li><b>React Minesweeper Clone (HTML, CSS, Javascript, React) </b><a href="https://randbyyp.github.io/React-Minesweeper/">Live Project</a><b>-</b><a href="https://github.com/RanDByyp/React-Minesweeper">Project Repo</a></li>
     <li><b>2D Map Generator (HTML, CSS, Javascript, p5.js) </b><a href="https://randbyyp.github.io/MapGen-Gold/">Live Project</a><b>-</b><a href="https://github.com/RanDByyp/MapGen-Gold">Project Repo</a></li>
