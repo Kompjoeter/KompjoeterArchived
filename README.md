@@ -65,7 +65,7 @@ Still learning:
 - **Getting into a study** ✅
 - **Finding an internship.** ✅
 - **Redesigning my personal website.**
-- **Making a simple informative one-page site with animated (SVG) header.** [WIP-Sneak-Peek](https://randbyyp.github.io/GAS-Hand-Animation/)
+- **Making a simple informative one-page site with animated (SVG) header.** [Live Project](https://randbyyp.github.io/GAS-Hand-Animation/) ✅
 
 
 
