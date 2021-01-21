@@ -65,15 +65,10 @@ Still learning:
 
 - **Getting into a study** ✅
 - **Finding an internship.** ✅
-- **Redesigning my personal website.** (On hold)
-- **Adding litegraph.js functionality/UI to program, and making custom Nodes.
+- **Adding litegraph.js functionality/UI to program, and making custom Nodes.**
 - **Learning Vue**
 - **Learning Sass**
 - **Experimenting with Vector Art**
-
-
-
-- **Getting familiar with Blender 3D-Modeling software by following a tutorial series.**
 
 # What else do I want to create or learn in the future?
 
