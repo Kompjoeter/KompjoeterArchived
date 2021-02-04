@@ -66,9 +66,7 @@ Still learning:
 - **Getting into a study** ✅
 - **Finding an internship.** ✅
 - **Adding litegraph.js functionality/UI to program, and making custom Nodes.**
-- **Learning Vue**
-- **Learning Sass**
-- **Experimenting with Vector Art**
+- **Working with Vue, Vuex, Vuetify, Firebase.**
 
 # What else do I want to create or learn in the future?
 
