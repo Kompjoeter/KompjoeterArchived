@@ -1,4 +1,4 @@
-*"28 year old creator, currently living in a semi-rural town in the north of the Netherlands, hoping to move to Zwolle. Interested in front-end, design, vector art, and anything ADHD."*
+*"28 year old creator, currently living in a town in the north of the Netherlands, hoping to move to Zwolle. Interested in front-end, design, vector art, and anything ADHD."*
 
 # I like to go on the computer.
 The computer is my all time favorite pastime thing! 
