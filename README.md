@@ -1,7 +1,10 @@
 
 # I like to go on the computer.
 
+
+<a href='https://kompjoeter.github.io/'>Blog</a>
 <a href='https://twitter.com/KompjoeterJonk'>Twitter</a>
+<a href='https://www.artstation.com/paniekjonk'>Art</a>
 
 *Take a walk through my repos, there's some nice stuff out there. Here are some examples:*
 
